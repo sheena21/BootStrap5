@@ -17,6 +17,13 @@
   width:100%;
   height:100%;
 }
+.ser img{
+  width:100%;
+  height:300px;
+}
+footer p{
+  margin-bottom:0;
+}
 
 @media (min-width: 576px) { ... }
 
